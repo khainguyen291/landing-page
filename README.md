@@ -1,1 +1,1 @@
-# landing_page
+This is my landing page that was created as a part of my Foundations course on the Odin Project. I did some extra customizations after achieving the target image in order to familiarize myself with as many CSS elements as possible. 
